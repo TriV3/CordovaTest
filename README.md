@@ -1,0 +1,2 @@
+# CordovaTest
+Cordova test project.
